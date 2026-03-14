@@ -1,0 +1,7 @@
+[Default Applications]
+application/zip=org.gnome.Nautilus.desktop
+application/x-msdownload=wine.desktop
+
+[Added Associations]
+application/zip=org.gnome.Nautilus.desktop;
+application/x-msdownload=wine.desktop;
