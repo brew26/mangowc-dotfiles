@@ -1,2 +1,2 @@
-My daily driver mangowc config.
+my daily driver config
 
